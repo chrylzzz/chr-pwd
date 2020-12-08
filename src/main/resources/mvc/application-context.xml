@@ -1,0 +1,11 @@
+<!-- 若是springMVC 则在配置文件配置该配置 -->
+<!--
+<bean id="propertyConfigurer" class="com.chryl.util.DecryptPropertyPlaceholderConfig">
+    <property name="locations">
+        <list>
+            <value>classpath*:application.properties</value>
+        </list>
+    </property>
+    <property name="order" value="-1"/>
+</bean>
+-->
